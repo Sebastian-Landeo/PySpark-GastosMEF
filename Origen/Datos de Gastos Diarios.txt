@@ -1,0 +1,2 @@
+Extraídos de: https://www.datosabiertos.gob.pe/dataset/presupuesto-y-ejecuci%C3%B3n-de-gasto
+Se escogió los csv de los del año 2022 - 2025
